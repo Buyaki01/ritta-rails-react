@@ -17,6 +17,7 @@
     "react-dom": "^18.1.0",
     "react-router": "^6.3.0",
     "react-router-dom": "^6.3.0",
+    "redux": "^4.2.0",
     "webpack": "^4.46.0",
     "webpack-cli": "^3.3.12"
   }
