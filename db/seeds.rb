@@ -9,3 +9,5 @@
 Greeting.create(:message => 'Hello Beautiful!')
 Greeting.create(:message => 'Hello Handsome!')
 Greeting.create(:message => 'Hello Pearl!')
+Greeting.create(:message => 'Hello Coder!')
+Greeting.create(:message => 'Hello Brilliant!')
