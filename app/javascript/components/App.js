@@ -2,7 +2,7 @@ import React from "react"
 import { Provider } from 'react-redux';
 import { BrowserRouter } from "react-router-dom"
 import PropTypes from "prop-types"
-import store from './redux/configureStore';
+import store from '../redux/store';
 import Greeting from "./Greeting";
 
 class App extends React.Component {
